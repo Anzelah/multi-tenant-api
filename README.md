@@ -1,0 +1,1 @@
+# build something like jira or asana. the idea is many companies have their own workspaces, and the workspace of org A isnt visible to those in ord B. many users/employees in this case use the organization; so it should sithstand many users updating at the same time. implement role based authorization and multi-tenantism are the main concepts to learn.
